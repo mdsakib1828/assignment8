@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Justin Bieber",
+    "geners": "pop",
+    "age": 32,
+    "networth": 285,
+    "country": "Canada",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Justin_Bieber_in_2015.jpg/220px-Justin_Bieber_in_2015.jpg"
+  },
+  {
+    "name": "Taylor Swift",
+    "geners": "pop,rock,folk",
+    "age": 27,
+    "networth": 195,
+    "country": "USA",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/191125_Taylor_Swift_at_the_2019_American_Music_Awards_%28cropped%29.png/220px-191125_Taylor_Swift_at_the_2019_American_Music_Awards_%28cropped%29.png"
+  },
+  {
+    "name": "Ed Sheeran",
+    "geners": "pop,hip hop,folk-pop",
+    "age": 32,
+    "networth": 395,
+    "country": "England",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ed_Sheeran-6886_%28cropped%29.jpg/220px-Ed_Sheeran-6886_%28cropped%29.jpg"
+  },
+  {
+    "name": "Selena Gomez",
+    "geners": "Pop,dance-pop,electropop",
+    "age": 26,
+    "networth": 244,
+    "country": "USA",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Selena_Gomez_in_2021.jpg/220px-Selena_Gomez_in_2021.jpg"
+  },
+  {
+    "name": "Billie Eilish",
+    "geners": "Pop,electropop,indie pop",
+    "age": 29,
+    "networth": 280,
+    "country": "USA",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Billie_Eilish_guesses_how_4%2C669_fans_responded_to_a_survey_about_her_%2802%29.jpg/220px-Billie_Eilish_guesses_how_4%2C669_fans_responded_to_a_survey_about_her_%2802%29.jpg"
+  },
+  {
+    "name": "Post Malone",
+    "geners": "Pop,hip hop,rap",
+    "age": 39,
+    "networth": 230,
+    "country": "USA",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Post_Malone_at_the_2019_American_Music_Awards.png/220px-Post_Malone_at_the_2019_American_Music_Awards.png"
+  },
+  {
+    "name": "The Weeknd",
+    "geners": "Pop,electropop,synth-pop",
+    "age": 33,
+    "networth": 130,
+    "country": "AUS",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/FEQ_July_2018_The_Weeknd_%2844778856382%29.jpg/220px-FEQ_July_2018_The_Weeknd_%2844778856382%29.jpg"
+  },
+  {
+    "name": "J Balvin",
+    "geners": "hip hop,latin-pop",
+    "age": 38,
+    "networth": 340,
+    "country": "Mexico",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/J_Balvin_2013.jpg/220px-J_Balvin_2013.jpg"
+  },
+  {
+    "name": "Dua Lipa",
+    "geners": "Pop,disco,house",
+    "age": 35,
+    "networth": 190,
+    "country": "USA",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Dua_Lipa_with_Warner_Music.jpg/220px-Dua_Lipa_with_Warner_Music.jpg"
+  }
+]
